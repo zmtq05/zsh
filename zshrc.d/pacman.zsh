@@ -1,0 +1,6 @@
+alias pain='paru -S'
+alias pains='paru -U'
+alias pare='paru -R'
+alias parem='paru -Rns'
+alias paorphan='paru -Qtd'
+alias pareorphan='paru -Rs $(paru -Qtdq)'

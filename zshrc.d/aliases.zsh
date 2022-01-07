@@ -1,0 +1,10 @@
+alias windows='systemctl reboot --boot-loader-entry=auto-windows'
+alias sudo='doas'
+alias rg='rg -i'
+
+alias ls='lsd'
+alias ll='lsd -l'
+alias la='lsd -A'
+alias lla='lsd -lA'
+alias lt='lsd --tree'
+alias lta='lsd -A --tree'

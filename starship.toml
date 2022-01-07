@@ -1,0 +1,10 @@
+right_format = "$time"
+
+[time]
+disabled = true
+
+[directory]
+truncate_to_repo = false
+
+[status]
+disabled = false
